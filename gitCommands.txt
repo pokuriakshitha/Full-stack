@@ -1,0 +1,140 @@
+    2  git --version
+    3  pwd
+    4  ls
+    5  ls -a
+    6  cd Desktop/
+    7  mkdir CRTBatch2
+    8  ls
+    9  cd CRTBatch2
+   10  touch jyothi.txt
+   11  ls
+   12  echo "line 1 data" > jyothi.txt
+   13  cat jyothi.txt
+   14  echo "line 2 data" > jyothi.txt
+   15  cat jyothi.txt
+   16  echo "line 3 data" >> jyothi.txt
+   17  cat jyothi.txt
+   18  gedit jyothi.txt
+   19  nano jyothi.txt
+   20  nano jyothi.txt
+   21  nano jyothi.txt
+   22  nano jyothi.txt
+   23  cat jyothi.txt
+   24  nano jyothi.txt
+   25  cat jyothi.txt
+   26  git init
+   27  ls
+   28  ls -a
+   29  git status
+   30  cd Desktop/
+   31  cd CRTBatch2
+   32  ls
+   33  git status
+   34  git add jyothi.txt
+   35  git commit -m "first commit"
+   36  git commit -m "First Commit"
+   37  git config --global user.email
+   38  git config --global user.name "chintakulajyothi12@gmail.com"
+   39  git config --global user.name "jyothi"
+   40  git commit -m "First Commit"
+   41  git config chintakulajyothi12@gmail.com
+   42  git config user.email
+   43  git config user.name
+   44  git remote add Gitam-CRT https://github.com/jyothi1999/Gitam-CRT
+   45  mkdir Gitam-CRT
+   46  git remote add Gitam-CRT https://github.com/jyothi1999/Gitam-CRT
+   47  git remote show
+   48  git remove -v
+   49  git remove - v
+   50  git remote -v
+   51  git pull Gitam-CRT
+   52  git push -u Gitam-CRT
+   53  git push --set-upstream Gitam-CRT master
+   54  git--version
+   55  git --version
+   56  pwd
+   57  ls
+   58  ls-a
+   59  ls -a
+   60  clear
+   61  cd Desktop/
+   62  cd <AnotherFolderName>
+   63  cd ..
+   64  cd /Desktop
+   65  cd desktop
+   66  cd ..
+   67  cd Desktop
+   68  cd Raptor
+   69  cd --
+   70  cd Desktop
+   71  clear
+   72  mkdir ashu1
+   73  cd ashu1
+   74  cd ..
+   75  cd fullstackdev
+   76  mkdir fullstackdev
+   77  ls
+   78  cd fullstackdev
+   79  ls
+   80  ls
+   81  clear
+   82  touch full_stack.txt
+   83  ls
+   84  cat full_stack.txt
+   85  echo full_stack.txt
+   86  echo "full stack developer"
+   87  echo "full stack developer" > full_stack.txt
+   88  cat full_stack.txt
+   89  echo "HTML and CSS" > full_stack.txt
+   90  cat full_stack.txt
+   91  echo "JavaScript" >> full_stack.txt
+   92  cat full_stack.txt
+   93  nano full_stack.txt
+   94  ls
+   95  nano data.txt
+   96  nano data.txt
+   97  rm help
+   98  rm --help
+   99  rm data.txt
+  100  clear
+  101  mkdir Git
+  102  ls
+  103  git init
+  104  git status
+  105  git add full_stack.txt
+  106  git status
+  107  git commit _m "first commit"
+  108  git config --global user.email 'akshithapokuri01@gmail.com
+  109  clear
+  110  cd fullstackdev
+  111  git status
+  112  git add full_stack.txt
+  113  git status
+  114  git commit -m "first commit"
+  115  git config --global user.email 'akshithapokuri01@gmail.com'
+  116  git config --global user.name 'Akshitha pokuri'
+  117  git config user.email
+  118  git config user.name
+  119  nano full_stack.txt
+  120  nano full_stack.txt
+  121  git status
+  122  git add full_stack.txt
+  123  git commit -m "second commit"
+  124  git log
+  125  mkdir Full_stack
+  126  ls
+  127  git remote -help
+  128  git remote add Full-stack https://github.com/pokuriakshitha/Full-stack
+  129  git remote show
+  130  git remote -v
+  131  git pull Full-stack master
+  132  git push -u Full-stack
+  133  git push --set-upstream Full-stack master
+  134  git push --set-upstream Full-stack master
+  135  git push -f --set-upstream Full-stack master
+  136  git status
+  137  git add gitcommands.txt
+  138  git commit -m "Gitcommands"
+  139  git log
+  140  history
+  141  history 140 >gitCommands.txt
